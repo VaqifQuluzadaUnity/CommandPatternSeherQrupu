@@ -1,2 +1,2 @@
-MainMenu=1;
-MainScee=2;
+MainMenu=1
+MainScee=2
